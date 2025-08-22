@@ -38,9 +38,25 @@ A modern, feature-rich hand gesture control system that turns your webcam into a
 - **Instruction Overlay**: Always-visible usage guide
 - **Customizable Settings**: Adjustable sensitivity and thresholds
 
+  🛠️ Technical Details
+Dependencies Overview
+OpenCV: Computer vision and webcam processing
+
+MediaPipe: Advanced hand tracking and landmark detection
+
+PyAutoGUI: System-level mouse and keyboard control
+
+PyCaw: System volume control (future feature)
+
+ComTypes: Windows COM interface support
+
 ## 🚀 Installation
+Install dependencies:
+pip install -r requirements.txt
 
 1. **Clone the repository**:
 ```bash
 git clone https://github.com/anirudra-gupta/handgesturecontroller.git
+
 cd handgesturecontroller
+#Python #OpenCV #MediaPipe #ComputerVision #AI #Accessibility #GestureControl #Webcam #Automation #VR #AR #HandTracking #Tech #Programming #Developer
