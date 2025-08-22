@@ -1,0 +1,8 @@
+opencv-python==4.9.0.80
+mediapipe==0.10.9
+pyautogui==0.9.54
+numpy==1.24.3
+comtypes==1.2.0
+pycaw==20181226
+absl-py==1.4.0
+protobuf==4.25.1
